@@ -1,0 +1,18 @@
+{
+    "name": "asus/2141018_uts_muhamad-dicky",
+    "description": "2141018_UTS_MuhamadDicky",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Asus\\2141018UtsMuhamadDicky\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MuhamadDicky123",
+            "email": "muhamadd123icky@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
